@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class InstogrammApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InstogrammApplication.class, args);
+		SpringApplication.run(InstogrammApplication.class, args); //comment
 	}
 
 }
