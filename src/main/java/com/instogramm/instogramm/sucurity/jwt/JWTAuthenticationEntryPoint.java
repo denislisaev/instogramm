@@ -1,7 +1,7 @@
 package com.instogramm.instogramm.sucurity.jwt;
 
 import com.google.gson.Gson;
-import com.instogramm.instogramm.payload.InvalidLoginResponce;
+import com.instogramm.instogramm.payload.response.InvalidLoginResponce;
 import com.instogramm.instogramm.sucurity.SecurityConstants;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.core.AuthenticationException;

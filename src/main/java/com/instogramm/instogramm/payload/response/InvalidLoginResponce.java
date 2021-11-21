@@ -1,4 +1,4 @@
-package com.instogramm.instogramm.payload;
+package com.instogramm.instogramm.payload.response;
 
 import lombok.Getter;
 
